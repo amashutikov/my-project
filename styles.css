@@ -2,6 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
+  background-color: #E5E5E5;
   font-style: normal;
   font-family: 'Montserrat', sans-serif;
   font-weight: normal;
@@ -11,6 +12,10 @@ body {
 }
 strong {
   font-weight: 500;
+}
+.page {
+  width: 595px;
+  margin: 0 auto;
 }
 /* #region about */
 .about {
@@ -43,6 +48,7 @@ strong {
 /* #endregion */
 
 .main {
+  background-color: white;
   padding: 0 40px;
 }
 /* #region contacts */
